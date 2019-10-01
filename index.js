@@ -27,7 +27,6 @@ function increaseRankBy( n ) {
     }
   }
 }
-© 2019 GitHub, Inc.
 
 function deepestChild() {
   return document.querySelector('#grand-node div div div div');
